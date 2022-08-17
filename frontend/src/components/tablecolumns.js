@@ -1,3 +1,4 @@
+/* eslint-disable no-sparse-arrays */
 const tablecolumns = [
     {
       Header: 'Title',
